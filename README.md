@@ -1,6 +1,7 @@
 # Fix up X (Twitter) Embeds in Discord
 
-This is a discord bot that automatically
+This is a Discord bot that automatically fixup X (formerly known as X) embeds in Discord.
+This bot is very lightweight and you can run it locally by following this README file.
 
 ## Setting up
 
